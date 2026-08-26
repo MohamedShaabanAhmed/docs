@@ -24,12 +24,12 @@ You can add ISO 19650 to your site directly through the App Catalog or AppSource
 
 ### Option 1: From AppSource
 
-1. Open the [AppSource listing](https://appsource.microsoft.com/en-us/product/office/WA200007197?src=docs&mktcmpid=docs_installation).
+1. Open the [AppSource listing](https://marketplace.microsoft.com/en-us/product/WA200011037?tab=Overview).
 2. Select **Get it now** to add ISO 19650 to your environment.
 
 ### Option 2: From the App Catalog
 
-1. Go to your App Catalog site: `https://yourdomain.sharepoint.com/sites/appcatalog/_layouts/15/appStore.aspx/appDetail/WA200007197`. Replace `yourdomain` with your specific domain.
+1. Go to your App Catalog site: `https://yourdomain.sharepoint.com/sites/appcatalog/_layouts/15/appStore.aspx/appDetail/WA200011037`. Replace `yourdomain` with your specific domain.
 
 ## 2. Add ISO 19650
 

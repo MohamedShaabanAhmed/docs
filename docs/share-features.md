@@ -17,7 +17,7 @@ ISO 19650 helps administrators and workspace owners manage SharePoint and Teams 
 
 ## ISO 19650 vs. standard SharePoint
 
-| Feature | Why it matters | ISO 19650 (Enterprise) | ISO 19650 (Free) | Standard SharePoint |
+| Feature | Why it matters | ISO 19650 (Enterprise) | ISO 19650 (Community) | Standard SharePoint |
 |---------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------------|-------------------------|
 | **User permissions** | Assign access to specific users and groups. | ✓ | ✓ | ✓ |
 | **Folder access** | Manage access at folder level for project workspaces. | ✓ | ✓ | ✓ |

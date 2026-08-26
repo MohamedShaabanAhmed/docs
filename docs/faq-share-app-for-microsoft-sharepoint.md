@@ -39,6 +39,12 @@ If the button does not appear, select a folder first:
 
 For a feature overview and plan comparison, see [ISO 19650 features](share-features.md).
 
+## Set up columns with Manage columns
+
+Yes. **Manage columns** is the setup function for creating or changing the columns used for file names and metadata.
+
+For instructions, see [Set up names and metadata as an administrator or project manager](standardize-document-names-and-properties.md#set-up-names-and-metadata-as-an-administrator-or-project-manager).
+
 ## Manage SharePoint and Teams content
 
 Use ISO 19650 to manage access to content stored in SharePoint, OneDrive, and Microsoft Teams. This includes files, folders, links, pages, and embedded content that are stored or referenced through SharePoint.
