@@ -15,6 +15,8 @@ This model-driven 5D (cost and time) dashboard turns your IFC model and one Exce
 > [!TIP]
 > The dashboard calculates planned cost from the model. You set up the mapping and the rates once. Then you enter the actual cost as work progresses.
 
+To keep the dashboard up to date automatically from files saved in SharePoint, see [Automated 5D pipeline overview](xref:ifc-5d-pipeline-overview).
+
 ## How it works
 
 The dashboard follows one chain: element, cost code, quantity multiplied by rate, and activity.
